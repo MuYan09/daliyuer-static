@@ -1,0 +1,23 @@
+{
+  "name": "daliyuer-static",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuYan09/daliyuer-static.git"
+  },
+  "keywords": [
+    "static",
+    "file"
+  ],
+  "author": "daliyuer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MuYan09/daliyuer-static/issues"
+  },
+  "homepage": "https://github.com/MuYan09/daliyuer-static#readme"
+}
