@@ -1,0 +1,15 @@
+{
+    "schedule": "weekly", // daily|weekly|monthly 执行优化的频率：每日、每周或每月
+    "ignoredFiles": [
+        //"*.jpg",                   // 通过扩展名忽略文件
+        //"img/special_images/*", // 通过文件夹路径忽略文件
+        //"wallhaven-v95lq3_5124x2882.png",              // 通过文件名忽略文件
+        //"wallhaven-v95lq3_5124x2811111182.png",              
+    ],
+    "aggressiveCompression": "false", // true|false 是否启用激进压缩模式
+    "compressWiki": "true", // true|false 是否压缩与 Wiki 相关的图片
+    "minKBReduced": 500, // 延迟创建新的 PR，直到大小减少达到此阈值（默认为 10 KB）
+    "prTitle" : "Imgbot压缩", // 自定义 PR 的标题
+    "prBody" : " 在优化比例之前的文字 {optimization_ratio} 在优化比例之后的文字 
+                 在优化详情之前的文字 {optimization_details} 在优化详情之后的文字",
+}
