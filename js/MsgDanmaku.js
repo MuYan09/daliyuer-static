@@ -1,8 +1,8 @@
 function danmu() {
-    if (location.pathname != '/collect/' || document.body.clientWidth < 768) return //判断是否是留言板页面
+    if (location.pathname != '/comments/' || document.body.clientWidth < 768) return //判断是否是留言板页面
     console.log(1);
     const Danmaku = new EasyDanmaku({
-        page: '/collect/', // 即留言板地址
+        page: '/comments/', // 即留言板地址
         el: '#danmu', //弹幕挂载节点
         line: 10, //弹幕行数
         speed: 20, //弹幕播放速度
