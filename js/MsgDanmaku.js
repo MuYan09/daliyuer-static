@@ -9,8 +9,8 @@ function danmu() {
         hover: true,
         loop: true, //开启循环播放
     })
-    let data = saveToLocal.get('danmu')
-    if (data) Danmaku.batchSend(data, true);
+    //let data = saveToLocal.get('danmu')
+    if (0) { }
     else {
         let ls = []
         fetch('https://twikoo.3ms.run/', { // 此处替换成自己的twikoo地址
@@ -27,7 +27,7 @@ function danmu() {
                 ls.push({ avatar: i.avatar, content: i.nick + '：' + formatDanmaku(i.comment), url: i.url + '#' + i.id })
             });
             Danmaku.batchSend(ls, true);
-            saveToLocal.set('danmu', ls, 0.02)
+            //saveToLocal.set('danmu', ls, 0.02)
         });
         // 格式化评论
         function formatDanmaku(str) {
