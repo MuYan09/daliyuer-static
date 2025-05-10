@@ -1,4 +1,738 @@
 {
+    "\u003Cimg src=\"https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/15探头探脑.gif\" style=\"width: 30px;top: 4px;position: relative;\" title=\"AC娘2\"\u003E": {
+        "type": "image",
+        "container": [
+            {
+                "text": "暗中观察",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/1_暗中观察.gif'>"
+            },
+            {
+                "text": "知识入脑",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/1知识入脑.gif'>"
+            },
+            {
+                "text": "嘲讽脸",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/2_嘲讽脸.gif'>"
+            },
+            {
+                "text": "KEKEKE",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/2KEKEKE.gif'>"
+            },
+            {
+                "text": "捶桌子",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/3_捶桌子.gif'>"
+            },
+            {
+                "text": "喝茶",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/3喝茶.gif'>"
+            },
+            {
+                "text": "打击",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/4_打击.gif'>"
+            },
+            {
+                "text": "哎哟",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/4哎哟.gif'>"
+            },
+            {
+                "text": "对打",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/5_对打.gif'>"
+            },
+            {
+                "text": "吃瓜",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/5吃瓜.gif'>"
+            },
+            {
+                "text": "黑化",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/6_黑化.gif'>"
+            },
+            {
+                "text": "流泪",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/6流泪.gif'>"
+            },
+            {
+                "text": "计划通",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/7_计划通.gif'>"
+            },
+            {
+                "text": "嗑瓜子",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/8_嗑瓜子.gif'>"
+            },
+            {
+                "text": "孤单寂寞冷",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/8孤单寂寞冷.gif'>"
+            },
+            {
+                "text": "抠鼻子",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/9_抠鼻子.gif'>"
+            },
+            {
+                "text": "鼓掌",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/9鼓掌.gif'>"
+            },
+            {
+                "text": "略略略",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/10_略略略.gif'>"
+            },
+            {
+                "text": "窥视",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/10窥视.gif'>"
+            },
+            {
+                "text": "柠檬",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/11_柠檬.gif'>"
+            },
+            {
+                "text": "嗯嗯嗯",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/11嗯嗯嗯.gif'>"
+            },
+            {
+                "text": "爬",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/12_爬.gif'>"
+            },
+            {
+                "text": "凡尔赛",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/12凡尔赛.gif'>"
+            },
+            {
+                "text": "撒娇",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/13_撒娇.gif'>"
+            },
+            {
+                "text": "偶哟",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/13偶哟.gif'>"
+            },
+            {
+                "text": "摔",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/14_摔.gif'>"
+            },
+            {
+                "text": "亲亲",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/14亲亲.gif'>"
+            },
+            {
+                "text": "头发变色",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/15_头发变色.gif'>"
+            },
+            {
+                "text": "探头探脑",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/15探头探脑.gif'>"
+            },
+            {
+                "text": "掩面而泣",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/16_掩面而泣.gif'>"
+            },
+            {
+                "text": "威胁",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/16威胁.gif'>"
+            }
+        ]
+    },
+    "\u003Cimg src=\"https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/01.png\" style=\"width: 30px;top: 4px;position: relative;\" title=\"AC娘1\"\u003E": {
+        "type": "image",
+        "container": [
+            {
+                "text": "AC娘01",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/01.png'>"
+            },
+            {
+                "text": "AC娘02",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/02.png'>"
+            },
+            {
+                "text": "AC娘03",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/03.png'>"
+            },
+            {
+                "text": "AC娘04",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/04.png'>"
+            },
+            {
+                "text": "AC娘05",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/05.png'>"
+            },
+            {
+                "text": "AC娘06",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/06.png'>"
+            },
+            {
+                "text": "AC娘07",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/07.png'>"
+            },
+            {
+                "text": "AC娘08",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/08.png'>"
+            },
+            {
+                "text": "AC娘09",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/09.png'>"
+            },
+            {
+                "text": "AC娘10",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/10.png'>"
+            },
+            {
+                "text": "AC娘11",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/11.png'>"
+            },
+            {
+                "text": "AC娘12",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/12.png'>"
+            },
+            {
+                "text": "AC娘13",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/13.png'>"
+            },
+            {
+                "text": "AC娘14",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/14.png'>"
+            },
+            {
+                "text": "AC娘15",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/15.png'>"
+            },
+            {
+                "text": "AC娘16",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/16.png'>"
+            },
+            {
+                "text": "AC娘17",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/17.png'>"
+            },
+            {
+                "text": "AC娘18",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/18.png'>"
+            },
+            {
+                "text": "AC娘19",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/19.png'>"
+            },
+            {
+                "text": "AC娘20",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/20.png'>"
+            },
+            {
+                "text": "AC娘21",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/21.png'>"
+            },
+            {
+                "text": "AC娘22",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/22.png'>"
+            },
+            {
+                "text": "AC娘23",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/23.png'>"
+            },
+            {
+                "text": "AC娘24",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/24.png'>"
+            },
+            {
+                "text": "AC娘25",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/25.png'>"
+            },
+            {
+                "text": "AC娘26",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/26.png'>"
+            },
+            {
+                "text": "AC娘27",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/27.png'>"
+            },
+            {
+                "text": "AC娘28",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/28.png'>"
+            },
+            {
+                "text": "AC娘29",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/29.png'>"
+            },
+            {
+                "text": "AC娘30",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/30.png'>"
+            },
+            {
+                "text": "AC娘31",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/31.png'>"
+            },
+            {
+                "text": "AC娘32",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/32.png'>"
+            },
+            {
+                "text": "AC娘33",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/33.png'>"
+            },
+            {
+                "text": "AC娘34",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/34.png'>"
+            },
+            {
+                "text": "AC娘35",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/35.png'>"
+            },
+            {
+                "text": "AC娘36",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/36.png'>"
+            },
+            {
+                "text": "AC娘37",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/37.png'>"
+            },
+            {
+                "text": "AC娘38",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/38.png'>"
+            },
+            {
+                "text": "AC娘39",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/39.png'>"
+            },
+            {
+                "text": "AC娘40",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/40.png'>"
+            },
+            {
+                "text": "AC娘41",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/41.png'>"
+            },
+            {
+                "text": "AC娘42",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/42.png'>"
+            },
+            {
+                "text": "AC娘43",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/43.png'>"
+            },
+            {
+                "text": "AC娘44",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/44.png'>"
+            },
+            {
+                "text": "AC娘45",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/45.png'>"
+            },
+            {
+                "text": "AC娘46",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/46.png'>"
+            },
+            {
+                "text": "AC娘47",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/47.png'>"
+            },
+            {
+                "text": "AC娘48",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/48.png'>"
+            },
+            {
+                "text": "AC娘49",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/49.png'>"
+            },
+            {
+                "text": "AC娘50",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/50.png'>"
+            },
+            {
+                "text": "AC娘51",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/51.png'>"
+            },
+            {
+                "text": "AC娘52",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/52.png'>"
+            },
+            {
+                "text": "AC娘53",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/53.png'>"
+            },
+            {
+                "text": "AC娘54",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/54.png'>"
+            },
+            {
+                "text": "AC娘1001",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/1001.png'>"
+            },
+            {
+                "text": "AC娘1002",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/1002.png'>"
+            },
+            {
+                "text": "AC娘1003",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/1003.png'>"
+            },
+            {
+                "text": "AC娘1004",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/1004.png'>"
+            },
+            {
+                "text": "AC娘1005",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/1005.png'>"
+            },
+            {
+                "text": "AC娘1006",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/1006.png'>"
+            },
+            {
+                "text": "AC娘1007",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/1007.png'>"
+            },
+            {
+                "text": "AC娘1008",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/1008.png'>"
+            },
+            {
+                "text": "AC娘1009",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/1009.png'>"
+            },
+            {
+                "text": "AC娘1010",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/1010.png'>"
+            },
+            {
+                "text": "AC娘1011",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/1011.png'>"
+            },
+            {
+                "text": "AC娘1012",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/1012.png'>"
+            },
+            {
+                "text": "AC娘1013",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/1013.png'>"
+            },
+            {
+                "text": "AC娘1014",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/1014.png'>"
+            },
+            {
+                "text": "AC娘1015",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/1015.png'>"
+            },
+            {
+                "text": "AC娘1016",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/1016.png'>"
+            },
+            {
+                "text": "AC娘1017",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/1017.png'>"
+            },
+            {
+                "text": "AC娘1018",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/1018.png'>"
+            },
+            {
+                "text": "AC娘1019",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/1019.png'>"
+            },
+            {
+                "text": "AC娘1020",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/1020.png'>"
+            },
+            {
+                "text": "AC娘1021",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/1021.png'>"
+            },
+            {
+                "text": "AC娘1022",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/1022.png'>"
+            },
+            {
+                "text": "AC娘1023",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/1023.png'>"
+            },
+            {
+                "text": "AC娘1024",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/1024.png'>"
+            },
+            {
+                "text": "AC娘1025",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/1025.png'>"
+            },
+            {
+                "text": "AC娘1026",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/1026.png'>"
+            },
+            {
+                "text": "AC娘1027",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/1027.png'>"
+            },
+            {
+                "text": "AC娘1028",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/1028.png'>"
+            },
+            {
+                "text": "AC娘1029",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/1029.png'>"
+            },
+            {
+                "text": "AC娘1030",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/1030.png'>"
+            },
+            {
+                "text": "AC娘1031",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/1031.png'>"
+            },
+            {
+                "text": "AC娘1032",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/1032.png'>"
+            },
+            {
+                "text": "AC娘1033",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/1033.png'>"
+            },
+            {
+                "text": "AC娘1034",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/1034.png'>"
+            },
+            {
+                "text": "AC娘1035",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/1035.png'>"
+            },
+            {
+                "text": "AC娘1036",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/1036.png'>"
+            },
+            {
+                "text": "AC娘1037",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/1037.png'>"
+            },
+            {
+                "text": "AC娘1038",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/1038.png'>"
+            },
+            {
+                "text": "AC娘1039",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/1039.png'>"
+            },
+            {
+                "text": "AC娘1040",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/1040.png'>"
+            },
+            {
+                "text": "AC娘2001",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2001.png'>"
+            },
+            {
+                "text": "AC娘2002",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2002.png'>"
+            },
+            {
+                "text": "AC娘2003",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2003.png'>"
+            },
+            {
+                "text": "AC娘2004",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2004.png'>"
+            },
+            {
+                "text": "AC娘2005",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2005.png'>"
+            },
+            {
+                "text": "AC娘2006",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2006.png'>"
+            },
+            {
+                "text": "AC娘2007",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2007.png'>"
+            },
+            {
+                "text": "AC娘2008",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2008.png'>"
+            },
+            {
+                "text": "AC娘2009",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2009.png'>"
+            },
+            {
+                "text": "AC娘2010",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2010.png'>"
+            },
+            {
+                "text": "AC娘2011",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2011.png'>"
+            },
+            {
+                "text": "AC娘2012",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2012.png'>"
+            },
+            {
+                "text": "AC娘2013",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2013.png'>"
+            },
+            {
+                "text": "AC娘2014",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2014.png'>"
+            },
+            {
+                "text": "AC娘2015",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2015.png'>"
+            },
+            {
+                "text": "AC娘2016",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2016.png'>"
+            },
+            {
+                "text": "AC娘2017",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2017.png'>"
+            },
+            {
+                "text": "AC娘2018",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2018.png'>"
+            },
+            {
+                "text": "AC娘2019",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2019.png'>"
+            },
+            {
+                "text": "AC娘2020",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2020.png'>"
+            },
+            {
+                "text": "AC娘2021",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2021.png'>"
+            },
+            {
+                "text": "AC娘2022",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2022.png'>"
+            },
+            {
+                "text": "AC娘2023",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2023.png'>"
+            },
+            {
+                "text": "AC娘2024",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2024.png'>"
+            },
+            {
+                "text": "AC娘2025",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2025.png'>"
+            },
+            {
+                "text": "AC娘2026",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2026.png'>"
+            },
+            {
+                "text": "AC娘2027",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2027.png'>"
+            },
+            {
+                "text": "AC娘2028",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2028.png'>"
+            },
+            {
+                "text": "AC娘2029",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2029.png'>"
+            },
+            {
+                "text": "AC娘2030",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2030.png'>"
+            },
+            {
+                "text": "AC娘2031",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2031.png'>"
+            },
+            {
+                "text": "AC娘2032",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2032.png'>"
+            },
+            {
+                "text": "AC娘2033",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2033.png'>"
+            },
+            {
+                "text": "AC娘2034",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2034.png'>"
+            },
+            {
+                "text": "AC娘2035",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2035.png'>"
+            },
+            {
+                "text": "AC娘2036",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2036.png'>"
+            },
+            {
+                "text": "AC娘2037",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2037.png'>"
+            },
+            {
+                "text": "AC娘2038",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2038.png'>"
+            },
+            {
+                "text": "AC娘2039",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2039.png'>"
+            },
+            {
+                "text": "AC娘2040",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2040.png'>"
+            },
+            {
+                "text": "AC娘2041",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2041.png'>"
+            },
+            {
+                "text": "AC娘2042",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2042.png'>"
+            },
+            {
+                "text": "AC娘2043",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2043.png'>"
+            },
+            {
+                "text": "AC娘2044",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2044.png'>"
+            },
+            {
+                "text": "AC娘2045",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2045.png'>"
+            },
+            {
+                "text": "AC娘2046",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2046.png'>"
+            },
+            {
+                "text": "AC娘2047",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2047.png'>"
+            },
+            {
+                "text": "AC娘2048",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2048.png'>"
+            },
+            {
+                "text": "AC娘2049",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2049.png'>"
+            },
+            {
+                "text": "AC娘2050",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2050.png'>"
+            },
+            {
+                "text": "AC娘2051",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2051.png'>"
+            },
+            {
+                "text": "AC娘2052",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2052.png'>"
+            },
+            {
+                "text": "AC娘2053",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2053.png'>"
+            },
+            {
+                "text": "AC娘2054",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2054.png'>"
+            },
+            {
+                "text": "AC娘2055",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac/2055.png'>"
+            },
+            {
+                "text": "AC娘76",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/   /76web.gif'>"
+            }
+        ]
+    },
     "\u003Cimg src=\"https://jsd.gog.email/npm/sticker-heo@2022.7.5/Sticker-100/害羞.png\" style=\"width: 30px;top: 4px;position: relative;\" title=\"Heo\"\u003E": {
         "type": "image",
         "container": [

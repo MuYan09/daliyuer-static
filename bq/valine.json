@@ -1,4 +1,133 @@
 {
+    "AC娘": {
+        "type": "image",
+        "container": [
+            {
+                "text": "暗中观察",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/1_暗中观察.gif'>"
+            },
+            {
+                "text": "知识入脑",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/1知识入脑.gif'>"
+            },
+            {
+                "text": "嘲讽脸",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/2_嘲讽脸.gif'>"
+            },
+            {
+                "text": "KEKEKE",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/2KEKEKE.gif'>"
+            },
+            {
+                "text": "捶桌子",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/3_捶桌子.gif'>"
+            },
+            {
+                "text": "喝茶",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/3喝茶.gif'>"
+            },
+            {
+                "text": "打击",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/4_打击.gif'>"
+            },
+            {
+                "text": "哎哟",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/4哎哟.gif'>"
+            },
+            {
+                "text": "对打",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/5_对打.gif'>"
+            },
+            {
+                "text": "吃瓜",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/5吃瓜.gif'>"
+            },
+            {
+                "text": "黑化",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/6_黑化.gif'>"
+            },
+            {
+                "text": "流泪",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/6流泪.gif'>"
+            },
+            {
+                "text": "计划通",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/7_计划通.gif'>"
+            },
+            {
+                "text": "嗑瓜子",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/8_嗑瓜子.gif'>"
+            },
+            {
+                "text": "孤单寂寞冷",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/8孤单寂寞冷.gif'>"
+            },
+            {
+                "text": "抠鼻子",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/9_抠鼻子.gif'>"
+            },
+            {
+                "text": "鼓掌",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/9鼓掌.gif'>"
+            },
+            {
+                "text": "略略略",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/10_略略略.gif'>"
+            },
+            {
+                "text": "窥视",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/10窥视.gif'>"
+            },
+            {
+                "text": "柠檬",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/11_柠檬.gif'>"
+            },
+            {
+                "text": "嗯嗯嗯",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/11嗯嗯嗯.gif'>"
+            },
+            {
+                "text": "爬",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/12_爬.gif'>"
+            },
+            {
+                "text": "凡尔赛",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/12凡尔赛.gif'>"
+            },
+            {
+                "text": "撒娇",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/13_撒娇.gif'>"
+            },
+            {
+                "text": "偶哟",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/13偶哟.gif'>"
+            },
+            {
+                "text": "摔",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/14_摔.gif'>"
+            },
+            {
+                "text": "亲亲",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/14亲亲.gif'>"
+            },
+            {
+                "text": "头发变色",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/15_头发变色.gif'>"
+            },
+            {
+                "text": "探头探脑",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/15探头探脑.gif'>"
+            },
+            {
+                "text": "掩面而泣",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/16_掩面而泣.gif'>"
+            },
+            {
+                "text": "威胁",
+                "icon": "<img src='https://jsd.gog.email/npm//daliyuer-static@latest/img/bqb/ac2/16威胁.gif'>"
+            }
+        ]
+    },
     "大圆脸": {
         "type": "image",
         "container": [
